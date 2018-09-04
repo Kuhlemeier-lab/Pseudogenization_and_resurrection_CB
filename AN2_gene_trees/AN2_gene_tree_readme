@@ -1,0 +1,7 @@
+README for AN2 gene tree files
+
+File list:
+20161209cds.nex   nexus file containing multiple sequence alignment for the coding sequence of AN2
+20161209gen_wpartition.nex    nexus file containing multiple sequence alignment for AN2 intron and exon ("genomic") sequences, with partition included
+AN2_cds_MSC_tree.tree   resulting cds tree from *BEAST analysis
+AN2_gen_MSC_tree_posterior50.tree   resulting intron/exon tree from *BEAST analysis
