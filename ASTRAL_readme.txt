@@ -5,6 +5,8 @@ ASTRALspecies_pp.tre shows the resulting multispecies coalescent topology genera
 
 ASTRALspecies_boot.tre shows the results of 100 replicates of multilocus bootstrapping. The last line is the summary of all bootstraps.
 
+astral_topology.tiff is an image of the ASTRAL species tree, rooted at Calibrachoa pygmea
+
 Species abbreviations:
 Cpy: Calibrachoa pygmea
 Pin: Petunia inflata
