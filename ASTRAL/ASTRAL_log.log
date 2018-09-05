@@ -1,0 +1,37 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.6.2
+Gene trees are treated as unrooted
+984 trees read from busco_genes_ML_fixednames.tree
+Scoring species.trees
+Scoring: 2 trees
+Number of taxa: 5 (5 species)
+Taxa: [PAX, PIN, PEX, PSE, CPY]
+Taxon occupancy: {PEX=984, PSE=984, PIN=984, PAX=984, CPY=984}
+Number of gene trees: 984
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4920
+Polytree building time: 0.028 seconds.
+Number of quartet trees in the gene trees: 4920
+Final quartet score is: 3061
+Final normalized quartet score is: 0.6221544715447155
+(PAX,((PEX,PSE)1:0.09024687784777805,(CPY,PIN)1:1.053454529509685));
+
+Number of taxa: 5 (5 species)
+Taxa: [PAX, PIN, PEX, PSE, CPY]
+Taxon occupancy: {PEX=984, PSE=984, PIN=984, PAX=984, CPY=984}
+Number of gene trees: 984
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4920
+Polytree building time: 0.011 seconds.
+Number of quartet trees in the gene trees: 4920
+Final quartet score is: 3061
+Final normalized quartet score is: 0.6221544715447155
+(PAX,((PEX,PSE)1:0.09024687784777805,(CPY,PIN)1:1.053454529509685));
+Weight calculation took 0.003149184 secs
+ASTRAL finished in 0.376 secs
